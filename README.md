@@ -1,3 +1,10 @@
+<h1>MOVIE RECOMMENDER SYSTEM</h1>
+
+Developed a movie recommender web app by using Python, Jupyter Notebook, and Python library (Streamlit)
+Developed a machine learning model that classified user viewing behaviours and correlated them with relevant
+content; this initiative resulted in a 30% reduction in content churn and markedly improved retention rates.
+
+
 Key Highlights:
 
 - Utilized collaborative filtering and content-based filtering techniques to provide personalized movie recommendations.
